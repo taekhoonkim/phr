@@ -3,6 +3,7 @@
 You can use the [editor on GitHub](https://github.com/taekhoonkim/phr-project-hq/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![PHR총괄목표](https://user-images.githubusercontent.com/65004181/85643369-dddd2f80-b6ce-11ea-8449-07fcdaafa84f.png)
 
 https://github.com/taekhoonkim/phr/issues/1#issue-645078031
 
