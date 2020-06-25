@@ -1,40 +1,13 @@
-## Welcome to GitHub Pages
+## 창의산업미래성장동력사업(PHR)
 
-You can use the [editor on GitHub](https://github.com/taekhoonkim/phr-project-hq/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+PHR 사업성과를 공유하기 위한 프로젝트 홈페이지입니다
+PHR 사업에 필요한 가이드라인을 제공할 예정입니다
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 ![PHR총괄목표](https://user-images.githubusercontent.com/65004181/85643369-dddd2f80-b6ce-11ea-8449-07fcdaafa84f.png)
 
 https://github.com/taekhoonkim/phr/issues/1#issue-645078031
 
-### Markdown
+### 시스템 구축 및 관리 주체
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![사업사진](https://user-images.githubusercontent.com/65004181/85643263-948ce000-b6ce-11ea-9508-5f4ffa126d7d.png)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/taekhoonkim/phr-project-hq/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
