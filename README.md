@@ -21,4 +21,10 @@ https://docs.google.com/spreadsheets/d/1jnl2Dj6El_Tm4mM5XYP5V-F18iB0IxGtI89FclCA
 
 
 ### 데이터저장소
-http://147.46.162.187:5820
+http://147.46.192.193:5820
+
+### PHR 분류
+http://147.46.192.193:8089
+
+### SNUH FHIR Server
+http://147.46.192.193:8088
